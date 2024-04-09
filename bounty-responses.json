@@ -1,0 +1,32 @@
+[
+    {
+      "Name": "Ron",
+      "Category": "Developer Tools",
+      "Contact": "@brklyn8900 on X",
+      "Submission": "Rosetta API integration\nhttps://docs.cloud.coinbase.com/rosetta/docs/welcome"
+    },
+    {
+      "Name": "JustinW",
+      "Category": "Other",
+      "Contact": "jw@kollection.app",
+      "Submission": "I'd like to see someone make a PR to Kondor that updated it with some basic UX improvements. I'd like to see an estimated amount of mana that a transaction will cost (can currently be seen by \"check events\", but, it should prompt the user). I'd like to see less archaic error messages for things (like lack of mana) and it guiding the user towards what they need to do to resolve their problem. I'd like to see everything that Kondor does show up in the main window rather than a pop-up. I'd like to see Kondor show you how much of your Koin is locked due to having used your mana, and, not show that as available Koin to transfer. I'd like for addresses not to overflow the size of the text box when used on MacOS/Linux. I'd like for you to be able to use the copy/paste shortcut on MacOS/Linux for addresses without the \"transfer\" button being completely greyed out upon pasting (you can only right-click paste, the ctrl-c/cmd-c shortcuts cause an issue with the transfer button). I'd like to see overall better error messages that make sense to users."
+    },
+    {
+      "Name": "Michael Lago",
+      "Category": "dApp",
+      "Contact": "@PepekoinBastard on Telegram and X",
+      "Submission": "I have the idea of the century, you are going to love it ! Please contact me so we can discuss is further. It's a game that I always wanted to create !! I am not a developer but I know exactly what and how, I can definitely lead this.\n\nWe should create a game like XCOM EU multiplayer (1v1), where each player takes turns controlling their squad of soldiers in tense tactical combat. \nEach soldier gets limited actions per turn, which can be spent on moving, taking cover, shooting, or using unique abilities. \nOutsmarting your opponent by positioning your soldiers cleverly and using abilities strategically is the key to victory.\n\nWe are going to break the bank with this kind of game, the hype is going to be immense. The weapons and soldiers will be the NFT's that can be bought/traded and won.\nMultiple versions of the game can be released to create extreme hype. As a start only one map is needed and some soldiers with basic abilities. \nUpon this we can expand and we can ceate multiple versions as well with different maps (vikings, native americans/cowboys, supersoldiers/aliens, greek gods vs other gods, and so on).\n\nI cannot wait to start !"
+    },
+    {
+      "Name": "ross benzeval",
+      "Category": "Other",
+      "Contact": "rossbenzeval1@gmail.com",
+      "Submission": "funding request for network anonymous or partnership"
+    },
+    {
+      "Name": "Carl Padavano",
+      "Category": "Other",
+      "Contact": "Telegram: @my_usernamee",
+      "Submission": "Submission form limits character count.  Idea simplified. But all fall tie to one general umbrella idea of a marketplace.\nCreate a marketplace HUB and stable koin where developers can launch dapps with a simple bridge between fiat and crypto available.\nCreate a Stable Koin which ties directly into the useability of dapps within the marketplace.  Stable Koin can strictly be minted through a website, purchased using only fiat currency.  Stable Koin is strictly a whole number digit only; 1, 2, 3, 4 ect…\n\nDapp1.  Reloadable staking pools\nDapp2. Point of Sale.\nDapp3.  Open lottery. \nDapp4.  Token Cashout"
+    }
+  ]
